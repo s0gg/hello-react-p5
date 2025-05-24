@@ -13,6 +13,7 @@
           packages = [
             pkgs.nodejs_24
             pkgs.pnpm
+            pkgs.typescript-language-server
           ];
         };
       }
